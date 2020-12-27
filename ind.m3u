@@ -18,3 +18,27 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 ,CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1,BERITA SATU
+http://222.124.156.68:2020/stream/channelid/661253715
+#EXTINF:-1,CNBC
+http://222.124.156.68:2020/stream/channelid/251272149
+#EXTINF:-1,CNN
+http://222.124.156.68:2020/stream/channelid/320882835
+#EXTINF:-1,GLOBALTV
+http://222.124.156.68:2020/stream/channelid/210171997
+#EXTINF:-1,INDOSIAR HD
+http://222.124.156.68:2020/stream/channelid/1298485811
+#EXTINF:-1,METRO TV HD
+http://222.124.156.68:2020/stream/channelid/1908054444
+#EXTINF:-1,MNCTV
+http://222.124.156.68:2020/stream/channelid/213199635
+#EXTINF:-1,RCTI
+http://222.124.156.68:2020/stream/channelid/256173053
+#EXTINF:-1,SCTV HD
+http://222.124.156.68:2020/stream/channelid/1260721644
+#EXTINF:-1,TRANS 7
+http://222.124.156.68:2020/stream/channelid/1835524951
+#EXTINF:-1,TRANS TV
+http://222.124.156.68:2020/stream/channelid/1779548442
+#EXTINF:-1,TV ONE
+http://222.124.156.68:2020/stream/channelid/370035416
