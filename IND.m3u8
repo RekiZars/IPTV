@@ -11,11 +11,11 @@ https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
 #EXTINF:-1,INEWS
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
-#EXTINF:-1 ,NET TV
+#EXTINF:-1,NET TV
 http://45.126.83.51/qwr9ew/s/s08/01.m3u8
-#EXTINF:-1 ,BeritaSatu
+#EXTINF:-1,BeritaSatu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF:-1 ,Channel NewsAsia
+#EXTINF:-1,Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 ,CNN Indonesia
+#EXTINF:-1,CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
